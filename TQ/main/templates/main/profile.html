@@ -1,0 +1,35 @@
+{% extends 'main/shablon.html' %}
+
+{% block title %}Профиль {{user.username}}{% endblock title %}
+
+{% block content %}
+<div class="row justify-content-around g-2">
+
+  
+  <div class="row justify-content-around align-items-start g-2">
+    <form method="post" id="inviteForm" class="col-6">
+      {% csrf_token %}
+      <div class="mb-3">
+        {{form.as_p}}
+      </div>
+      <div class="row justify-content-center align-items-center g-2">
+        <button type="submit" class="btn btn-primary">Ввести инвайт код</button>
+      </div>
+    </form>
+
+    <div class="row justify-content-center align-items-center g-2 col-5 text-center">
+      <h3 class="col-12">Ваш инвайт код</h3>
+      <div class="col p-5" style="border: solid black 1px;">{{user.invite_code}}</div>
+    </div>
+  </div>
+
+</div>
+<div class="row justify-content-center align-items-center g-2 m-1">
+  <a name="" id="" class="btn btn-danger" href="{% url 'logout' %}" role="button">Выйти из профиля</a>
+</div>
+
+{% endblock content %}
+
+{% block script %}
+  <script src="/static/main/js/profile.js"></script>
+{% endblock script %}

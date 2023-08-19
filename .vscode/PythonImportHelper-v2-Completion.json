@@ -1,0 +1,919 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "django.core.files.base",
+        "description": "django.core.files.base",
+        "isExtraImport": true,
+        "detail": "django.core.files.base",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "django.db.models.base",
+        "description": "django.db.models.base",
+        "isExtraImport": true,
+        "detail": "django.db.models.base",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorList",
+        "importPath": "django.forms.utils",
+        "description": "django.forms.utils",
+        "isExtraImport": true,
+        "detail": "django.forms.utils",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "get_token",
+        "importPath": "django.middleware.csrf",
+        "description": "django.middleware.csrf",
+        "isExtraImport": true,
+        "detail": "django.middleware.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "SmsRuApi",
+        "importPath": "smsru.service",
+        "description": "smsru.service",
+        "isExtraImport": true,
+        "detail": "smsru.service",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "http",
+        "description": "http",
+        "detail": "http",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "TQ.main.migrations.0001_initial",
+        "description": "TQ.main.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "TQ.main.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "TQ.main.migrations.0002_alter_user_invite_code",
+        "description": "TQ.main.migrations.0002_alter_user_invite_code",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('main', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='invite_code',\n            field=models.CharField(max_length=255, null=True),\n        ),",
+        "detail": "TQ.main.migrations.0002_alter_user_invite_code",
+        "documentation": {}
+    },
+    {
+        "label": "MainConfig",
+        "kind": 6,
+        "importPath": "TQ.main.apps",
+        "description": "TQ.main.apps",
+        "peekOfCode": "class MainConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'main'",
+        "detail": "TQ.main.apps",
+        "documentation": {}
+    },
+    {
+        "label": "EnterFormPhone",
+        "kind": 6,
+        "importPath": "TQ.main.forms",
+        "description": "TQ.main.forms",
+        "peekOfCode": "class EnterFormPhone(forms.Form):\n    phone = forms.CharField(\n        max_length=255,\n        label=\"Введите номер телефона\",\n        widget=forms.NumberInput(attrs={\"class\": \"form-control\"}),\n    )\nclass EnterFormPassword(forms.Form):\n    password = forms.CharField(\n        max_length=4,\n        label=\"На Ваш номер было отправленно сообщение с кодом. Введите этот код\",",
+        "detail": "TQ.main.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EnterFormPassword",
+        "kind": 6,
+        "importPath": "TQ.main.forms",
+        "description": "TQ.main.forms",
+        "peekOfCode": "class EnterFormPassword(forms.Form):\n    password = forms.CharField(\n        max_length=4,\n        label=\"На Ваш номер было отправленно сообщение с кодом. Введите этот код\",\n        widget=forms.TextInput(attrs={\"class\": \"form-control\"}),\n        required=False,\n    )\nclass InviteCodeForm(forms.Form):\n    invite = forms.CharField(\n        max_length=6,",
+        "detail": "TQ.main.forms",
+        "documentation": {}
+    },
+    {
+        "label": "InviteCodeForm",
+        "kind": 6,
+        "importPath": "TQ.main.forms",
+        "description": "TQ.main.forms",
+        "peekOfCode": "class InviteCodeForm(forms.Form):\n    invite = forms.CharField(\n        max_length=6,\n        label=\"Введите инвайт код другого пользователя, чтобы добавить его в список\",\n        widget=TextInput(attrs={'class': 'form-control text-center'}),\n    )",
+        "detail": "TQ.main.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "TQ.main.models",
+        "description": "TQ.main.models",
+        "peekOfCode": "class User(AbstractUser):\n    invite_code = models.CharField(max_length=255, null=True)\n    invited = models.ManyToManyField(\"User\", blank=True, related_name=\"Присоединенные\")",
+        "detail": "TQ.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "TQ.main.serializers",
+        "description": "TQ.main.serializers",
+        "peekOfCode": "class UserSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"id\", \"invited\", \"username\")",
+        "detail": "TQ.main.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "TQ.main.urls",
+        "description": "TQ.main.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'users', views.UserViewSet)\nurlpatterns = [\n    # html страницы\n    path(\"\", views.loginPage, name = \"login\"),\n    path(\"profile/\", views.profile, name = \"profile\"),\n    path(\"findInvite/\", views.findInvite, name = \"findInvite\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    # API\n    path('api/', include(router.urls)),",
+        "detail": "TQ.main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "TQ.main.urls",
+        "description": "TQ.main.urls",
+        "peekOfCode": "urlpatterns = [\n    # html страницы\n    path(\"\", views.loginPage, name = \"login\"),\n    path(\"profile/\", views.profile, name = \"profile\"),\n    path(\"findInvite/\", views.findInvite, name = \"findInvite\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    # API\n    path('api/', include(router.urls)),\n    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),\n    # Функции",
+        "detail": "TQ.main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSet",
+        "kind": 6,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "class UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginPage",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def loginPage(request):\n    return render(\n        request,\n        \"main/login.html\",\n        {\"form1\": EnterFormPhone},\n    )\n@login_required\ndef profile(request):\n    return render(request, \"main/profile.html\", {\"form\": InviteCodeForm()})\n@login_required",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def profile(request):\n    return render(request, \"main/profile.html\", {\"form\": InviteCodeForm()})\n@login_required\ndef logoutUser(request):\n    logout(request)\n    return redirect(\"login\")\n# Функции\ndef phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "logoutUser",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def logoutUser(request):\n    logout(request)\n    return redirect(\"login\")\n# Функции\ndef phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "phoneHTML",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)\n    result = api.send_one_sms(f\"+{phone}\", f\"{password}\")\n    user = User.objects.filter(username = f\"+{phone}\")\n    print(password)\n    if len(user) > 0:",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "phone",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)\n    result = api.send_one_sms(f\"+{phone}\", f\"{password}\")\n    user = User.objects.filter(username = f\"+{phone}\")\n    print(password)\n    if len(user) > 0:\n        user = User.objects.get(username = f\"+{phone}\")    \n    else:",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginCode",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def loginCode(request):\n    phone = request.POST[\"phone\"]\n    password = request.POST[\"password\"]\n    user = User.objects.get(username = f\"+{phone}\")\n    if user.check_password(password):\n        if user.invite_code == \"\" or user.invite_code == \"*\":\n            user.invite_code = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=6))\n            user.save()\n        auth_user = authenticate(request, username = f\"+{phone}\", password = password)\n        print(auth_user)",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "findInvite",
+        "kind": 2,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "def findInvite(request):\n    print(request)\n    invite_code = request.POST[\"invite\"]\n    user = request.user\n    try:\n        user_invite = User.objects.get(invite_code = invite_code)\n        invited = user_invite.invited.all()\n        if user_invite not in invited and user_invite != user:\n            user_invite.invited.add(user)\n            return HttpResponse(\"Запрос успешно отправлен\")",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "api = SmsRuApi()\n# html страницы\ndef loginPage(request):\n    return render(\n        request,\n        \"main/login.html\",\n        {\"form1\": EnterFormPhone},\n    )\n@login_required\ndef profile(request):",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "TQ.TQ.asgi",
+        "description": "TQ.TQ.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "TQ.TQ.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-*w+eqw0zu*=sx^6uoszze%tdmx4+3oe2$!1sphbrdpek3ab0ib'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'main.User'\nLOGIN_URL = \"/\"",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-*w+eqw0zu*=sx^6uoszze%tdmx4+3oe2$!1sphbrdpek3ab0ib'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'main.User'\nLOGIN_URL = \"/\"\nAPPEND_SLASH=False\n# Application definition\nINSTALLED_APPS = [\n    'jquery',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'main.User'\nLOGIN_URL = \"/\"\nAPPEND_SLASH=False\n# Application definition\nINSTALLED_APPS = [\n    'jquery',\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'main.User'\nLOGIN_URL = \"/\"\nAPPEND_SLASH=False\n# Application definition\nINSTALLED_APPS = [\n    'jquery',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'main.User'\nLOGIN_URL = \"/\"\nAPPEND_SLASH=False\n# Application definition\nINSTALLED_APPS = [\n    'jquery',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "LOGIN_URL = \"/\"\nAPPEND_SLASH=False\n# Application definition\nINSTALLED_APPS = [\n    'jquery',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'jquery',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'compressor',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SMS_RU",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "SMS_RU = {\n    \"API_ID\": 'FEC9AE19-7695-BDA3-BB72-1F455B0B7BE4', # если указан API ключ, логин и пароль пропускаем\n    \"TEST\": True, # отправка смс в тестовом режиме, по умолчанию False\n}\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'TQ.urls'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "ROOT_URLCONF = 'TQ.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'TQ.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "TQ.TQ.urls",
+        "description": "TQ.TQ.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('main.urls')),\n]",
+        "detail": "TQ.TQ.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "TQ.TQ.wsgi",
+        "description": "TQ.TQ.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "TQ.TQ.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "TQ.manage",
+        "description": "TQ.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TQ.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "TQ.manage",
+        "documentation": {}
+    }
+]
