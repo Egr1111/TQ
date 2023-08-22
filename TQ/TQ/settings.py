@@ -49,12 +49,16 @@ INSTALLED_APPS = [
 
 ]
 
-
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.BasicAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+    ]
+}
 
 SMS_RU = {
-    "API_ID": 'FEC9AE19-7695-BDA3-BB72-1F455B0B7BE4', # если указан API ключ, логин и пароль пропускаем
-    "TEST": True, # отправка смс в тестовом режиме, по умолчанию False
-
+    "API_ID": '',
+    "TEST": True
 }
 
 MIDDLEWARE = [
@@ -121,9 +125,12 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru'
 
 TIME_ZONE = 'UTC'
+
+
+DATETIME_FORMAT = '%d-%m-%Y %H:%M:%S' 
 
 USE_I18N = True
 
@@ -134,7 +141,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
-STATIC_ROOT = BASE_DIR / 'main' / 'static'
+STATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field

@@ -74,6 +74,22 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -203,6 +219,15 @@
         "documentation": {}
     },
     {
+        "label": "rest_framework",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
         "label": "serializers",
         "importPath": "rest_framework",
         "description": "rest_framework",
@@ -212,6 +237,22 @@
     },
     {
         "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
         "importPath": "rest_framework",
         "description": "rest_framework",
         "isExtraImport": true,
@@ -251,6 +292,14 @@
         "documentation": {}
     },
     {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -264,6 +313,22 @@
         "description": "django.urls",
         "isExtraImport": true,
         "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
         "documentation": {}
     },
     {
@@ -381,14 +446,6 @@
         "documentation": {}
     },
     {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
-        "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
-        "documentation": {}
-    },
-    {
         "label": "DetailView",
         "importPath": "django.views.generic",
         "description": "django.views.generic",
@@ -461,21 +518,85 @@
         "documentation": {}
     },
     {
-        "label": "http",
-        "kind": 6,
+        "label": "SessionAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
         "isExtraImport": true,
-        "importPath": "http",
-        "description": "http",
-        "detail": "http",
+        "detail": "rest_framework.authentication",
         "documentation": {}
     },
     {
-        "label": "requests",
+        "label": "BasicAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "requests",
-        "description": "requests",
-        "detail": "requests",
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "tzinfo",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumbers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "phonenumbers",
+        "description": "phonenumbers",
+        "detail": "phonenumbers",
         "documentation": {}
     },
     {
@@ -521,6 +642,24 @@
         "documentation": {}
     },
     {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
         "label": "Migration",
         "kind": 6,
         "importPath": "TQ.main.migrations.0001_initial",
@@ -532,10 +671,19 @@
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "TQ.main.migrations.0002_alter_user_invite_code",
-        "description": "TQ.main.migrations.0002_alter_user_invite_code",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('main', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='invite_code',\n            field=models.CharField(max_length=255, null=True),\n        ),",
-        "detail": "TQ.main.migrations.0002_alter_user_invite_code",
+        "importPath": "TQ.main.migrations.0002_alter_user_last_code",
+        "description": "TQ.main.migrations.0002_alter_user_last_code",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('main', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='last_code',\n            field=models.DateTimeField(auto_now_add=True, verbose_name='Время последнего сообщения'),\n        ),",
+        "detail": "TQ.main.migrations.0002_alter_user_last_code",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "TQ.main.migrations.0003_alter_user_last_code",
+        "description": "TQ.main.migrations.0003_alter_user_last_code",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('main', '0002_alter_user_last_code'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='last_code',\n            field=models.DateTimeField(auto_created=True, auto_now_add=True, verbose_name='Время последнего сообщения'),\n        ),",
+        "detail": "TQ.main.migrations.0003_alter_user_last_code",
         "documentation": {}
     },
     {
@@ -579,26 +727,26 @@
         "kind": 6,
         "importPath": "TQ.main.models",
         "description": "TQ.main.models",
-        "peekOfCode": "class User(AbstractUser):\n    invite_code = models.CharField(max_length=255, null=True)\n    invited = models.ManyToManyField(\"User\", blank=True, related_name=\"Присоединенные\")",
+        "peekOfCode": "class User(AbstractUser):\n    invite_code = models.CharField(max_length=255, null=True)\n    invited = models.ManyToManyField(\"User\", blank=True, related_name=\"Присоединенные\")\n    last_code = models.DateTimeField(auto_now_add=True, auto_created=True, verbose_name=\"Время последнего сообщения\", blank=True)",
         "detail": "TQ.main.models",
         "documentation": {}
     },
     {
-        "label": "UserSerializer",
+        "label": "UserSerializerView",
         "kind": 6,
         "importPath": "TQ.main.serializers",
         "description": "TQ.main.serializers",
-        "peekOfCode": "class UserSerializer(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"id\", \"invited\", \"username\")",
+        "peekOfCode": "class UserSerializerView(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"id\", \"username\", \"invited\")\nclass UserSerializerAuth(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"username\", \"password\")",
         "detail": "TQ.main.serializers",
         "documentation": {}
     },
     {
-        "label": "router",
-        "kind": 5,
-        "importPath": "TQ.main.urls",
-        "description": "TQ.main.urls",
-        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'users', views.UserViewSet)\nurlpatterns = [\n    # html страницы\n    path(\"\", views.loginPage, name = \"login\"),\n    path(\"profile/\", views.profile, name = \"profile\"),\n    path(\"findInvite/\", views.findInvite, name = \"findInvite\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    # API\n    path('api/', include(router.urls)),",
-        "detail": "TQ.main.urls",
+        "label": "UserSerializerAuth",
+        "kind": 6,
+        "importPath": "TQ.main.serializers",
+        "description": "TQ.main.serializers",
+        "peekOfCode": "class UserSerializerAuth(serializers.HyperlinkedModelSerializer):\n    class Meta:\n        model = User\n        fields = (\"username\", \"password\")",
+        "detail": "TQ.main.serializers",
         "documentation": {}
     },
     {
@@ -606,16 +754,52 @@
         "kind": 5,
         "importPath": "TQ.main.urls",
         "description": "TQ.main.urls",
-        "peekOfCode": "urlpatterns = [\n    # html страницы\n    path(\"\", views.loginPage, name = \"login\"),\n    path(\"profile/\", views.profile, name = \"profile\"),\n    path(\"findInvite/\", views.findInvite, name = \"findInvite\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    # API\n    path('api/', include(router.urls)),\n    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),\n    # Функции",
+        "peekOfCode": "urlpatterns = [\n    # html страницы\n    path(\"\", views.loginPage, name = \"login\"),\n    path(\"profile/\", views.profile, name = \"profile\"),\n    path(\"findInvite/\", views.findInvite, name = \"findInvite\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    # API\n    path('api/v1/users/', views.UserViewSetList.as_view()),\n    path('api/v1/createUser/', views.UserViewSetCreate.as_view()),\n    path('api/v1/login/', views.LoginView.as_view()),",
         "detail": "TQ.main.urls",
         "documentation": {}
     },
     {
-        "label": "UserViewSet",
+        "label": "UTC",
         "kind": 6,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "class UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer",
+        "peekOfCode": "class UTC(tzinfo):\n    def utcoffset(self, dt):\n        return ZERO\n    def tzname(self, dt):\n        return \"UTC\"\n    def dst(self, dt):\n        return ZERO\nutc = UTC()\napi = SmsRuApi()\n# html страницы",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "class LoginView(views.APIView):\n    authentication_classes = [SessionAuthentication, BasicAuthentication]\n    serializers = UserSerializerAuth\n    def get_queryset(self):\n        if self.request.user.is_authenticated:\n            return self.request.user.invited.all()\n        else:\n            return Response(\n                {\n                    \"result\": \"Вам нужно авторизоваться. Для этого сделайте POST запрос по этому же url адресу, введя в значение 'username' свой номер телефона или создайте новый аккаунт, сделав POST запрос по адресу /createUser/, в 'username' свой номер телефона и снова отправив POST запрос по адресу /login/.\"",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "class LogoutView(views.APIView):\n    authentication_classes = [SessionAuthentication, BasicAuthentication]\n    permission_classes = [IsAuthenticated]\n    def get(self, request, format=None):\n        logout(request)\n        return Response({\"result\": \"Спасибо за то, что пользовались нашим API!\"})\nclass UserViewSetList(generics.ListAPIView):\n    queryset = User.objects.all()\n    serializer_class = UserSerializerView\n    authentication_classes = [SessionAuthentication, BasicAuthentication]",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSetList",
+        "kind": 6,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "class UserViewSetList(generics.ListAPIView):\n    queryset = User.objects.all()\n    serializer_class = UserSerializerView\n    authentication_classes = [SessionAuthentication, BasicAuthentication]\n    permission_classes = [IsAuthenticated]\nclass UserViewSetCreate(generics.CreateAPIView):\n    queryset = User.objects.all()\n    authentication_classes = [SessionAuthentication, BasicAuthentication]\n    serializer_class = UserSerializerView\n    def post(self, request):",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSetCreate",
+        "kind": 6,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "class UserViewSetCreate(generics.CreateAPIView):\n    queryset = User.objects.all()\n    authentication_classes = [SessionAuthentication, BasicAuthentication]\n    serializer_class = UserSerializerView\n    def post(self, request):\n        username = request.data[\"username\"]\n        user = User.objects.filter(username=username)\n        time_now = datetime.datetime.now(utc)\n        my_number = phonenumbers.parse(username)\n        if not phonenumbers.is_possible_number(my_number):",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -642,7 +826,7 @@
         "kind": 2,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "def logoutUser(request):\n    logout(request)\n    return redirect(\"login\")\n# Функции\ndef phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)",
+        "peekOfCode": "def logoutUser(request):\n    logout(request)\n    return redirect(\"login\")\n# Функции\ndef phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    my_number = phonenumbers.parse(phone)\n    if not phonenumbers.is_possible_number(my_number):",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -651,7 +835,7 @@
         "kind": 2,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "def phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)\n    result = api.send_one_sms(f\"+{phone}\", f\"{password}\")\n    user = User.objects.filter(username = f\"+{phone}\")\n    print(password)\n    if len(user) > 0:",
+        "peekOfCode": "def phoneHTML(request):\n    return HttpResponse(EnterFormPassword().as_p())\ndef phone(request):\n    phone = request.POST[\"phone\"]\n    my_number = phonenumbers.parse(phone)\n    if not phonenumbers.is_possible_number(my_number):\n        error = JsonResponse({\"error\": \"Неправильный номер\"})\n        error.status_code = 52\n        return error\n    user = User.objects.filter(username=f\"+{phone}\")",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -660,7 +844,7 @@
         "kind": 2,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "def phone(request):\n    phone = request.POST[\"phone\"]\n    password = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=4))\n    password_hash = make_password(password)\n    result = api.send_one_sms(f\"+{phone}\", f\"{password}\")\n    user = User.objects.filter(username = f\"+{phone}\")\n    print(password)\n    if len(user) > 0:\n        user = User.objects.get(username = f\"+{phone}\")    \n    else:",
+        "peekOfCode": "def phone(request):\n    phone = request.POST[\"phone\"]\n    my_number = phonenumbers.parse(phone)\n    if not phonenumbers.is_possible_number(my_number):\n        error = JsonResponse({\"error\": \"Неправильный номер\"})\n        error.status_code = 52\n        return error\n    user = User.objects.filter(username=f\"+{phone}\")\n    print(password)\n    if user.exists():",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -669,7 +853,7 @@
         "kind": 2,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "def loginCode(request):\n    phone = request.POST[\"phone\"]\n    password = request.POST[\"password\"]\n    user = User.objects.get(username = f\"+{phone}\")\n    if user.check_password(password):\n        if user.invite_code == \"\" or user.invite_code == \"*\":\n            user.invite_code = \"\".join(random.choices(string.ascii_uppercase + string.digits, k=6))\n            user.save()\n        auth_user = authenticate(request, username = f\"+{phone}\", password = password)\n        print(auth_user)",
+        "peekOfCode": "def loginCode(request):\n    phone = request.POST[\"phone\"]\n    password = request.POST[\"password\"]\n    time_now = datetime.datetime.now(utc)\n    user = User.objects.get(username=f\"+{phone}\")\n    if (time_now - user.last_code).seconds > 60:\n        error = JsonResponse({\"error\": \"Время вышло, отправьте запрос заново\"})\n        error.status_code = 504\n        return error\n    if not user.check_password(password):",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -678,7 +862,25 @@
         "kind": 2,
         "importPath": "TQ.main.views",
         "description": "TQ.main.views",
-        "peekOfCode": "def findInvite(request):\n    print(request)\n    invite_code = request.POST[\"invite\"]\n    user = request.user\n    try:\n        user_invite = User.objects.get(invite_code = invite_code)\n        invited = user_invite.invited.all()\n        if user_invite not in invited and user_invite != user:\n            user_invite.invited.add(user)\n            return HttpResponse(\"Запрос успешно отправлен\")",
+        "peekOfCode": "def findInvite(request):\n    print(request)\n    invite_code = request.POST[\"invite\"]\n    user = request.user\n    try:\n        user_invite = User.objects.get(invite_code=invite_code)\n        invited = user_invite.invited.all()\n        if user_invite not in invited and user_invite != user:\n            user_invite.invited.add(user)\n            return HttpResponse(\"Запрос успешно отправлен\")",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "ZERO",
+        "kind": 5,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "ZERO = timedelta(0)\nclass UTC(tzinfo):\n    def utcoffset(self, dt):\n        return ZERO\n    def tzname(self, dt):\n        return \"UTC\"\n    def dst(self, dt):\n        return ZERO\nutc = UTC()\napi = SmsRuApi()",
+        "detail": "TQ.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "utc",
+        "kind": 5,
+        "importPath": "TQ.main.views",
+        "description": "TQ.main.views",
+        "peekOfCode": "utc = UTC()\napi = SmsRuApi()\n# html страницы\ndef loginPage(request):\n    return render(\n        request,\n        \"main/login.html\",\n        {\"form1\": EnterFormPhone},\n    )\n@login_required",
         "detail": "TQ.main.views",
         "documentation": {}
     },
@@ -764,11 +966,20 @@
         "documentation": {}
     },
     {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.BasicAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ]\n}\nSMS_RU = {\n    \"API_ID\": '',\n    \"TEST\": True\n}",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
         "label": "SMS_RU",
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "SMS_RU = {\n    \"API_ID\": 'FEC9AE19-7695-BDA3-BB72-1F455B0B7BE4', # если указан API ключ, логин и пароль пропускаем\n    \"TEST\": True, # отправка смс в тестовом режиме, по умолчанию False\n}\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',",
+        "peekOfCode": "SMS_RU = {\n    \"API_ID\": '',\n    \"TEST\": True\n}\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -831,7 +1042,7 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'UTC'\nDATETIME_FORMAT = '%d-%m-%Y %H:%M:%S' \nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -840,7 +1051,16 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nDATETIME_FORMAT = '%d-%m-%Y %H:%M:%S' \nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "TQ.TQ.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME_FORMAT",
+        "kind": 5,
+        "importPath": "TQ.TQ.settings",
+        "description": "TQ.TQ.settings",
+        "peekOfCode": "DATETIME_FORMAT = '%d-%m-%Y %H:%M:%S' \nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -849,7 +1069,7 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -858,7 +1078,7 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -867,7 +1087,7 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
@@ -876,7 +1096,7 @@
         "kind": 5,
         "importPath": "TQ.TQ.settings",
         "description": "TQ.TQ.settings",
-        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'main' / 'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'TQ' / 'main' /'static'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "TQ.TQ.settings",
         "documentation": {}
     },
